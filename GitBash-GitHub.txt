@@ -1,0 +1,15 @@
+Adding project to the Github Instructions:
+
+1. Open GitBash
+
+2. Type 'cd ' and then drag the project folder for which you want to save versions of. This will bring the gitbash to that directory
+
+3. Type 'git init'
+
+4. Type 'git add .'
+
+5. Type 'git commit -m "message"'
+
+6. Type 'git remote add origin "remote repository URL"'
+
+6. Type 'git push origin master --force'
