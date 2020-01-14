@@ -1,5 +1,7 @@
 Adding project to the Github Instructions:
 
+Resource: https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/
+
 1. Open GitBash
 
 2. Type 'cd ' and then drag the project folder for which you want to save versions of. This will bring the gitbash to that directory
