@@ -1,0 +1,8 @@
+In order to run android srudio emulator outside the Android studio follow the following steps:
+
+1. Go to Users > --username-- > AppData > Local > Android > Sdk > emulator
+2. open command line promt from that location (Just type cmd in the address bar)
+3. Type in the Command line window: emulator.exe -avd NAME_OF_THE_DEVICE
+    Example:
+      emulator.exe -avd Pixel_3a_API_26
+ 
